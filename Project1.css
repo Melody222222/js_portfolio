@@ -1,0 +1,40 @@
+h1 { background-color:darkcyan;
+  border-radius: 80px;
+  padding: 2px;}
+body {
+  padding-top: 8px;
+  font-family:Garamond;
+  font-size: 5mm;
+  text-align: center;
+  color:black;
+}
+p {
+  font-style: italic;
+  font-size: larger;
+}
+.navbar {
+  background-color:tan;
+  border-color: tan;
+  border-radius: 100px;
+  padding: 8px;
+}
+.row {
+  display: inline-block;
+  padding: 5px;
+}
+.column {
+  display: inline-block;
+  padding: 5px;
+}
+  footer {
+    border-radius: 100px; 
+    padding: 2px; font-size: 6mm;
+    font: black;
+  padding: 2px;
+  opacity: 0.8;
+  background-color:lightseagreen;
+}
+
+
+
+
